@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, React JS**
 
-- 🤝 I’m looking building **Catazas Indonesia**
+- 🤝 I’m currently building **Catazas Indonesia**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arsyad7](https://github.com/arsyad7)
 
