@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhamad Arsyad Ramadhan</h1>
-<h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsyad7&label=Profile%20views&color=0e75b6&style=flat" alt="arsyad7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsyad7" alt="arsyad7" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, React JS**
-
-- 🤝 I’m currently building **Catazas Indonesia**
+- 🤝 I’m currently building **Nanoscape**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arsyad7](https://github.com/arsyad7)
-
-- 💬 Ask me about **NodeJS, ReactJS and React Native**
 
 - 📫 How to reach me **arsyadrama7@gmail.com**
 
